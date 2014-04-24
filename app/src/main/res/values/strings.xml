@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Networking Example</string>
+    <string name="loading">Loading</string>
+    <string name="error_loading_contributors">Error Loading Contributors</string>
+    <string name="go_to_proper">Go To Proper</string>
+
+</resources>
